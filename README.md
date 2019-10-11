@@ -1,2 +1,2 @@
 # Uakari
-Extracts probable table names from a graphql schema, maybe
+GraphQL Code Generator plugin for extracting likely graphql object names
